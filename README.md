@@ -70,10 +70,6 @@ To be updated soon.
 ---
 ## **Reference**
 ```
-@article{corso2020principal,
-  title={Principal Neighbourhood Aggregation for Graph Nets},
-  author={Corso, Gabriele and Cavalleri, Luca and Beaini, Dominique and Li{\`o}, Pietro and Veli{\v{c}}kovi{\'c}, Petar},
-  journal={arXiv preprint arXiv:2004.05718},
-  year={2020}
-}
+To be updated soon.
+
 ```
