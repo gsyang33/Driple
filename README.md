@@ -10,7 +10,7 @@
   - [**Training dataset generation**](#training-dataset-generation)
   - [**Reference**](#reference)
 
-<img src="/structure.jpg" alt="*Driple* structure" width="500"/>
+<img src="https://raw.githubusercontent.com/gsyang33/driple/master/others/structure.jpg" alt="*Driple* structure" width="600"/>
 
 
 ---
