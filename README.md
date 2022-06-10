@@ -111,6 +111,6 @@ python3 dataset_builder/generate_dataset.py --perf_result=[Result].csv --batch_s
 
 ---
 ## **Reference**
-```
-To be updated soon.
-```
+
+ - Gyeongsik Yang, Changyong Shin, Jeunghwan Lee, Yeonho Yoo, and Chuck Yoo. 2022. Prediction of the Resource Consumption of Distributed Deep Learning Systems. <i>Proc. ACM Meas. Anal. Comput. Syst.</i> 6, 2, Article 29 (June 2022), 25 pages. https://doi.org/10.1145/3530895
+ - Gyeongsik Yang, Changyong Shin, Jeunghwan Lee, Yeonho Yoo, and Chuck Yoo. 2022. Prediction of the Resource Consumption of Distributed Deep Learning Systems. In <i>Abstract Proceedings of the 2022 ACM SIGMETRICS/IFIP PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems</i> (<i>SIGMETRICS/PERFORMANCE '22</i>). Association for Computing Machinery, New York, NY, USA, 69–70. https://doi.org/10.1145/3489048.3530962
