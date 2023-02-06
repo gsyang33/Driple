@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Driple: Prediction of the Resource Consumption of
+  Distributed Deep Learning Systems
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gyeongsik
+    family-names: Yang
+    email: ksyang@os.korea.ac.kr
+    orcid: 'https://orcid.org/0000-0003-4560-2972'
+  - given-names: Changyong
+    family-names: Shin
+    email: cyshin@os.korea.ac.kr
+    orcid: 'https://orcid.org/0000-0002-3323-1054'
+  - given-names: Yeonho
+    family-names: Yoo
+    email: yhyoo@os.korea.ac.kr
+    orcid: 'https://orcid.org/0000-0002-2636-633X'
+  - given-names: Jeunghwan
+    family-names: Lee
+    email: jhlee21@os.korea.ac.kr
+    orcid: 'https://orcid.org/0000-0001-7776-5624'
+repository-code: 'https://github.com/gsyang33/Driple'
+abstract: >-
+  Driple trains a machine learning model, called Driple
+  inspector, for predicting 12 metrics in terms of resource
+  consumption. In particular, Driple predicts 1) burst
+  duration, 2) idle duration, and 3) burst consumption for
+  each 1) GPU utilization, 2) GPU memory utilization, 3)
+  network TX throughput, and 4) network RX throughput.
+keywords:
+  - Distributed deep learning
+  - Graph neural network
+  - TensorFlow
+  - Pytorch
+  - Data parallel
+  - Parameter server
+  - GPU
+  - deep learning
+  - AI
+  - GPU utilization
+  - GPU memory
+license: MIT
